@@ -211,3 +211,13 @@ Add a license file if you plan to allow others to use, modify, or distribute thi
 ## Author
 
 Created by Kent Carbonell as a classmate-focused learning project and a practical exercise in modern web development.
+
+## Developer's Note
+
+**Developer: Ken (Fushitowa)**
+
+I created Hani Library as an advance gift for my classmate. What started as a way to build something useful for someone else became a meaningful reminder that code is not only a technical skill—it is also a way to turn ideas into something creative and share it with others.
+
+My coding journey began manually, learning the fundamentals one step at a time with guidance from my older brother. I learned by writing code myself, making mistakes, fixing them, and slowly building confidence in the process. Now, I am exploring AI-assisted development and "vibe coding," combining the foundation I have learned with modern AI tools to create projects more thoughtfully and efficiently.
+
+This project represents growth: the patience to learn from the basics, the curiosity to explore new ways of building, and the joy of making something that can be useful to a friend. Thank you for being part of the journey.
